@@ -21,17 +21,21 @@ const Home = () => {
     	 
           <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3 mt-1">
               
-				<Mycard/>
-				<Mycard/>
-				<Mycard/>
-				<Mycard/>
+				<Mycard  Cardtitle='Mi foto1' Cardtext='Lorem ipsum dod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ifugiat nulla pariatur'
+                               />
+				<Mycard  Cardtitle='Mi foto2' Cardtext='Lorem ipsum dod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ifugiat nulla pariatur'
+                               />
+				<Mycard  Cardtitle='Mi foto3' Cardtext='Ut enim ad minima veniam, lisequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?' />
+				<Mycard  Cardtitle='Mi foto4' Cardtext='Lorem ipsum dod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ifugiat nulla pariatur'
+                               />
 				
 			
 			
 			</div>
 			</div>
 			</div>
-			<About />
+			<About  FooterAnio='2024' 
+                    Company='MY4geeks2024'/>
 		
 		</div>
 	

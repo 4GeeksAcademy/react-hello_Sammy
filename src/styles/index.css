@@ -1,13 +1,19 @@
 
 .mycard{
     width: 18rem;
-    
-}
+    }
 
 .jumbotron{
     margin-top: 90px;
     border-radius: 4%;
-    height: 16rem;
+    
     
 
+}
+
+#footer{
+    color: aliceblue;
+    background-color: black;
+    height: 3em;
+    margin-top: 5px;
 }
