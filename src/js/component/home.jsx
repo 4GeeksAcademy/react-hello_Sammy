@@ -19,7 +19,7 @@ const Home = () => {
 			</div>
          <div class="tab-content ">
     	 
-          <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3 mt-1">
+          <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-3 mt-1">
               
 				<Mycard  Cardtitle='Mi foto1' Cardtext='Lorem ipsum dod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ifugiat nulla pariatur'
                                />
